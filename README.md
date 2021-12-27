@@ -10,7 +10,7 @@ Once the new elements were created in the HTML, I was able to consolidate some o
 
 ## Credits
 
-The site can be viewed 
+The site can be viewed <a href="https://ashoknayakii.github.io/Horiseon-Update/">here.</a>
 All changes made by Ashok Nayak [Github Profile] (https://github.com/ashoknayakii)
 
 &copy; 2021 Horiseon Social Solution Services, Inc.
