@@ -1,4 +1,4 @@
-#Making Horiseon Visible
+# Making Horiseon Visible
 
 ## Description
 
@@ -11,6 +11,6 @@ Once the new elements were created in the HTML, I was able to consolidate some o
 ## Credits
 
 The site can be viewed 
-by Ashok Nayak [Github Profile] (https://github.com/ashoknayakii)
+All changes made by Ashok Nayak [Github Profile] (https://github.com/ashoknayakii)
 
 &copy; 2021 Horiseon Social Solution Services, Inc.
